@@ -1,4 +1,4 @@
-# Sistema de Relaciones Familiares en Prolog
+# Ejercicios de repaso Haskell
 
 Universidad Distrital Francisco José de Caldas  
 Proyecto Curricular de Ingeniería de Sistemas
