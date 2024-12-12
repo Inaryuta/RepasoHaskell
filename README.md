@@ -70,7 +70,7 @@ El objetivo principal de este proyecto es desarrollar y resolver ejercicios de H
 
 ### Instrucciones de uso
 
-1. Abre el archivo correspondiente al ejercicio que deseas probar en Visual Studio Code.
-2. Carga el archivo en GHCi utilizando el comando:
+1. Abrir el archivo correspondiente al ejercicio que se desea probar en Visual Studio Code.
+2. Cargar el archivo en GHCi utilizando el comando:
    ```bash
    :l NombreDelArchivo.hs
